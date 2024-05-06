@@ -29,3 +29,5 @@ I would like to acknowledge [Coding Ninjas](https://www.codingninjas.com/) for p
 - Real-time Feedback: Your score updates instantly, keeping you motivated throughout.
 - Vibrant Design: Enjoy a visually captivating experience with our vibrant layout.
 
+## Demo
+https://github.com/ushasri3110/QuizGameUsingJavaScript/assets/144483101/84b87122-219f-4303-9aff-81bd731d155c
