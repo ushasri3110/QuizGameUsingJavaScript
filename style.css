@@ -1,0 +1,45 @@
+#heading{
+    text-align: center;
+}
+#question{
+    background-color: #ff3c00f0;
+    text-align: center;
+    padding:20px;
+    font-weight:bolder;
+    margin: 10px auto;
+    border-radius: 10px;
+    color:white;
+    font-size: 18px;
+}
+#options{
+    background-color: rgba(128, 128, 128, 0.641);
+    width:50%;
+    margin:10px auto;
+    display:flex;
+    flex-direction: column;
+}
+#options button{
+    width:50%;
+    margin:5px auto;
+    padding:5px;
+    border-radius: 10px;
+}
+#options button:hover{
+    background-color: #ff3c00f0;
+}
+
+#score{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#next button{
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding:5px;
+    width:80px;
+    font-weight: bolder;
+    margin-left: 70%;
+}
